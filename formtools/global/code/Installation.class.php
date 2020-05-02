@@ -335,8 +335,8 @@ class Installation
             $db->query("
                 CREATE TABLE {PREFIX}field_options (
                   list_id mediumint(8) unsigned NOT NULL,
-                  list_group_id mediumint(9) NOT NULL,
-                  option_order smallint(4) NOT NULL,
+                  list_group_id mediumint(9) unsigned NOT NULL,
+                  option_order smallint(4) unsigned NOT NULL,
                   option_value varchar(255) NOT NULL,
                   option_name varchar(255) NOT NULL,
                   is_new_sort_group enum('yes', 'no') NOT NULL,
