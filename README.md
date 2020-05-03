@@ -11,3 +11,4 @@
 * [Issues](https://github.com/formtools/core/issues) posted thereat thereafter have not been fixed yet
 * Official documentation is stuck at v2 of the codebase which uses Smarty v2
 * Dependant libraries for fresh installs are dated
+* Added Tamil language

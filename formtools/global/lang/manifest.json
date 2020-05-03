@@ -45,6 +45,7 @@
     { "lang": "Serbian", "file": "sr.php", "code": "sr" },
     { "lang": "Swedish", "file": "sv.php", "code": "sv" },
     { "lang": "Swahili", "file": "sw.php", "code": "sw" },
+    { "lang": "Tamil", "file": "ta.php", "code": "ta" },
     { "lang": "Thai", "file": "th.php", "code": "th" },
     { "lang": "Filipino", "file": "tl.php", "code": "tl" },
     { "lang": "Turkish", "file": "tr.php", "code": "tr" },

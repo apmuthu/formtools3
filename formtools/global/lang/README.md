@@ -61,6 +61,7 @@ Got any questions? Drop me an email at [ben.keen@gmail.com](mailto:ben.keen@gmai
 - [Spanish](es.php)
 - [Swahili](sw.php)
 - [Swedish](sv.php)
+- [Tamil](ta.php)
 - [Thai](th.php)
 - [Turkish](tr.php)
 - [Ukrainian](uk.php)
