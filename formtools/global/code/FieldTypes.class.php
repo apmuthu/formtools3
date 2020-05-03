@@ -1039,6 +1039,9 @@ END;
 			case "datetime:dd. mm. yy|hh:mm":
 				$php_format = "d. m. Y H:i";
 				break;
+			case "datetime:dd-mm-yy":
+				$php_format = "d-m-Y";
+				break;
 
 			default:
 				$php_format = "";

@@ -126,6 +126,11 @@ class Date
                         "option_text"       => "30. 08. 2011 20:00",
                         "option_value"      => "datetime:dd. mm. yy|hh:mm",
                         "is_new_sort_group" => "yes"
+                    ),
+                    array(
+                        "option_text"       => "30-08-2011",
+                        "option_value"      => "datetime:dd-mm-yy",
+                        "is_new_sort_group" => "yes"
                     )
                 )
             ),
